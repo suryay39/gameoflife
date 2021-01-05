@@ -11,8 +11,6 @@
         <version>1.3.0.RELEASE</version>
         <relativePath/>
     </parent>
-
-    
     
     <groupId>be.cegeka</groupId>
     <artifactId>gameoflife</artifactId>
