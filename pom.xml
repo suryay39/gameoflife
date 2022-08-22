@@ -12,6 +12,7 @@
         <relativePath/>
     </parent>
     
+    
     <groupId>be.cegeka</groupId>
     <artifactId>gameoflife</artifactId>
     <version>0.0.3</version>
